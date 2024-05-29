@@ -1,9 +1,9 @@
 ## Stephen Sparks
 ### Hi there 👋
 
-- 🔭 I’m currently working on coding and information security projects
-- 🌱 I’m currently learning rwxrob beginner boost (linux), HTB academy (info sec), pwn college (info sec)
-- 🤔 I’m looking for help longterm with breaking into Information Security
+- 🔭 I’m currently working on Coding and Information Security projects
+- 🌱 I’m currently learning indepth topics related to Linux, Software Engineering, and Information Security
+- 🤔 I’m looking for help with breaking into the Information Security Industry
 - 💬 Ask me about Movies, Linux, Info Sec, Basketball
 - 📫 How to reach me: stephen@sparksinfosec.com
 
