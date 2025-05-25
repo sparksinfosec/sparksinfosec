@@ -1,5 +1,5 @@
 ## Stephen Sparks
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I’m currently working on becoming a Red Hat Cerified System Admin 
 - 🌱 I’m currently learning in depth topics related to Linux (RHCSA/RHCE), Software Engineering (C, Python, and Go), and Information Security
